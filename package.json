@@ -1,0 +1,22 @@
+{
+  "name": "@muyaszed/dev",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muyaszed/how_to_npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "yazed jamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muyaszed/how_to_npm/issues"
+  },
+  "homepage": "https://github.com/muyaszed/how_to_npm#readme"
+}
